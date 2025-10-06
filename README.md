@@ -31,3 +31,11 @@ lib/
   - Service: Comunicação com APIs nativas (Geolocator)
   - ViewModel: Gerenciamento de estado e lógica de negócio
   - View: Renderização da UI e interação com usuário
+
+## 🤝 Contribuindo
+Contribuições são bem-vindas! Sinta-se à vontade para:
+ - Fazer um fork do projeto
+ - Criar uma branch para sua feature (git checkout -b feature/NovaFeature)
+ - Commitar suas mudanças (git commit -m 'Add some NovaFeature')
+ - Push para a branch (git push origin feature/NovaFeature)
+ - Abrir um Pull Request
