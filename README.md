@@ -1,16 +1,16 @@
 # Aplicativo Mapa 🗺️
-## Aplicação Flutter de mapas interativos com rastreamento em tempo real, busca de endereços e interface moderna.
+ Aplicação Flutter de mapas interativos com rastreamento em tempo real, busca de endereços e interface moderna.
 
 ![Demonstração APP Mapa](https://github.com/PedroCoelhoIF/Aplicativo_Mapa/blob/main/assets/demo/demo-app-mapa.gif?raw=true)
 
-### Sobre o Projeto:
+## Sobre o Projeto:
 Aplicação mobile desenvolvida em Flutter que oferece funcionalidades completas de mapeamento, incluindo:
 -Rastreamento em tempo real da localização do usuário
 -Busca de endereços com autocompletar usando Nominatim API
 -Marcadores personalizados no mapa
 -Controles de zoom intuitivos
 
-### 🏗️ Arquitetura
+## 🏗️ Arquitetura
 O projeto segue o padrão MVVM (Model-View-ViewModel) para melhor organização e manutenibilidade:
 
 ```
@@ -25,7 +25,7 @@ lib/
 └── views/
     └── map_view.dart              # Interface do usuário
 ```
-#### Responsabilidades:
+### Responsabilidades:
   - Model: Estruturas de dados simples (LocationModel)
   - Service: Comunicação com APIs nativas (Geolocator)
   - ViewModel: Gerenciamento de estado e lógica de negócio
