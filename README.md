@@ -5,10 +5,11 @@
 
 ## Sobre o Projeto:
 Aplicação mobile desenvolvida em Flutter que oferece funcionalidades completas de mapeamento, incluindo:
--Rastreamento em tempo real da localização do usuário
--Busca de endereços com autocompletar usando Nominatim API
--Marcadores personalizados no mapa
--Controles de zoom intuitivos
+
+ -Rastreamento em tempo real da localização do usuário
+ -Busca de endereços com autocompletar usando Nominatim API
+ -Marcadores personalizados no mapa
+ -Controles de zoom intuitivos
 
 ## 🏗️ Arquitetura
 O projeto segue o padrão MVVM (Model-View-ViewModel) para melhor organização e manutenibilidade:
