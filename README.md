@@ -11,6 +11,34 @@ Aplicação mobile desenvolvida em Flutter que oferece funcionalidades completas
  - Marcadores personalizados no mapa
  - Controles de zoom intuitivos
 
+## 📦 Pacotes Utilizados
+
+| Pacote | Versão | Descrição |
+|--------|--------|-----------|
+| `flutter_map` | ^8.2.2 | Biblioteca de mapas interativos baseada em tiles |
+| `geolocator` | ^14.0.2 | Acesso ao GPS e serviços de localização |
+| `latlong2` | ^0.9.1 | Manipulação de coordenadas geográficas |
+| `provider` | ^6.1.5+1 | Gerenciamento de estado reativo |
+| `http` | ^1.2.0 | Requisições HTTP para API de geocoding |
+| `flutter_typeahead` | ^5.2.0 | Campo de busca com autocompletar |
+| `battery_plus` | ^7.0.0 | Monitoramento de bateria do dispositivo |
+| `dio` | ^5.4.3 | Cliente HTTP avançado |
+| `url_launcher` | ^6.3.0 | Abertura de URLs externas |
+
+## 📦 Pacotes Utilizados
+
+| Pacote | Versão | Descrição |
+|:-------|:------:|:----------|
+| `flutter_map` | ^8.2.2 | Biblioteca de mapas interativos baseada em tiles |
+| `geolocator` | ^14.0.2 | Acesso ao GPS e serviços de localização |
+| `latlong2` | ^0.9.1 | Manipulação de coordenadas geográficas |
+| `provider` | ^6.1.5+1 | Gerenciamento de estado reativo |
+| `http` | ^1.2.0 | Requisições HTTP para API de geocoding |
+| `flutter_typeahead` | ^5.2.0 | Campo de busca com autocompletar |
+| `battery_plus` | ^7.0.0 | Monitoramento de bateria do dispositivo |
+| `dio` | ^5.4.3 | Cliente HTTP avançado |
+| `url_launcher` | ^6.3.0 | Abertura de URLs externas |
+
 ## 🏗️ Arquitetura
 O projeto segue o padrão MVVM (Model-View-ViewModel) para melhor organização e manutenibilidade:
 
